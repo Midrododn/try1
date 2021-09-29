@@ -61,8 +61,10 @@ section div:nth-child(3):hover {
 }
 
 #p3 {
+	position: relative;
 	background-color: #5F9EA0;
-	clear: left;
+	top: 60px;
+	left: 400px;
 }
 
 #p4 {
