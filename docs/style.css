@@ -1,3 +1,7 @@
+h1 {
+	text-align: center;
+}
+
 section li{
 	list-style: none;
 
@@ -33,4 +37,8 @@ a:hover, a:active {
 section div:nth-child(3):hover {
 	background-color: green;
 	cursor: pointer;
+}
+
+* {
+	border-left: 1px solid black;
 }
